@@ -1,0 +1,11 @@
+# Ignore dataset files
+Dataset/Raw/*.sqlite
+Dataset/Raw/Extracted_Tables/*.csv
+
+# Allow placeholder files to keep folder structure
+!Dataset/Raw/.gitkeep
+!Dataset/Raw/Extracted_Tables/.gitkeep
+
+# Ignore Excel temporary/lock files
+~$*.xlsx
+~$*.xls
