@@ -152,7 +152,7 @@ To ensure the dashboard dynamically updates without manual intervention, the wor
 1. Download or clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/ZoranG99/Retail-Merchandising-Pricing-Optimization-Customer-Engagement.git
+    git clone https://github.com/ZoranG99/Retail_Merchandising_Pricing_Optimization_And_Customer_Engagement.git    
     ```
 2. Open `Excel/retail_merch_dashboard.xlsx` in **Microsoft Excel (Microsoft 365 or 2021+)**. *Note: Older Excel versions may not support Modern Dynamic Array formulas (`FILTER`, `TAKE`, `SORT`, `XLOOKUP`).*
 3. Navigate across the three interactive sheets (`Executive`, `Merchandising`, `Customer`) and use the interactive slicers on the right panels to filter metrics dynamically by Brand, Listing Price Bracket, Discount Tier, and Date ranges.
